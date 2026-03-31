@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Vinícius Gonçalves de Oliveira
-Tópicos Essenciais de Programação
+Respondendo a lista de exercício do GitHub
